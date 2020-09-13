@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Welcome to Alexander's homepage
 description: just trying things out
-image: ![my_face](/head_shot.jpg)
+========
+
+<h3>here is a picture of me</h3>
+<img src="/head_shot.jpg">
