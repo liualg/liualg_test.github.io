@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Welcome to Alexander's homepage
 description: just trying things out
+image: ![my_face](/head_shot.jpg)
