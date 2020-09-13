@@ -1,6 +1,12 @@
 # Welcome
 
 My name is Alexander, and I am currently doing neuro-psychology research involving taste. Please look around and enjoy yourself. 
+<!-- ![my_face](./head_shot.jpg) --> 
+<!-- note, this is css ^. if you use css, you will have to create another doc with all the css code in it -->
+
+
+<h3>here is a picture of me</h3> <!---  this is html --> 
+<img style="float: right;width: 20px;height: 20px;" src="./head_shot.jpg">
 
 ## Current Project: 
 
