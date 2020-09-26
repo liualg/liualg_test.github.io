@@ -1,5 +1,14 @@
 theme: jekyll-theme-minimal
+title: Academic Website of Ted Laderas
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
 
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Ted Laderas
+  avatar: bio-photo.jpg
+  
+  
 title: Welcome
 description: just trying things out
 picture: './head_shot.jpg'
