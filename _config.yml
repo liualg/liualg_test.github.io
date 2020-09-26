@@ -10,15 +10,15 @@ owner:
   avatar: bio-photo.jpg
   
   
-title: Welcome
-description: just trying things out
-picture: './head_shot.jpg'
-picture: /head_shot.jpg
-description: just trying things out
+# title: Welcome
+# description: just trying things out
+# picture: './head_shot.jpg'
+# picture: /head_shot.jpg
+# description: just trying things out
 
-owner: 
-  name: Alexander
-  avatar: head_shot.jpg
-  bio: Welcome to my page. My name is Alexander and I am doing neuro-psychology research at...
-  email: alexander@gmail.com
-  location: Sunflower Field, USA
+# owner: 
+#   name: Alexander
+#   avatar: head_shot.jpg
+#   bio: Welcome to my page. My name is Alexander and I am doing neuro-psychology research at...
+#   email: alexander@gmail.com
+#   location: Sunflower Field, USA
