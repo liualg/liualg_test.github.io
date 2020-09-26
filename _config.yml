@@ -2,9 +2,11 @@ theme: jekyll-theme-minimal
 
 title: Welcome
 description: just trying things out
+picture: './head_shot.jpg'
+picture: /head_shot.jpg
 
-author:
-  name     : Alexander
-  avatar   : /head_shot.jpg
-  bio      : Welcome to my page. My name is Alexander and I am doing neuro-psychology research at...
-  location : Sunflower Field, USA
+author: 
+  name  : Alexander
+  picture: './head_shot.jpg'
+  bio: Welcome to my page. My name is Alexander and I am doing neuro-psychology research at...
+  location: Sunflower Field, USA
