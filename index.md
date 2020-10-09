@@ -6,9 +6,9 @@ My name is Alexander, and I am currently doing neuro-psychology research involvi
 
 
 <h3>here is a picture of me</h3> <!---  this is html --> 
-<img style="float: right;width: 20px;height: 20px;" src="./head_shot.jpg">
+<img style="float: left;width: 100px;height: 100px;" src="./head_shot.jpg">
 
-## Current Project: 
+### Current Project: 
 
 I am currently researching taste semantics in the human language. I hope to relate the neural correlates of the taste pathway to the colexification --  describes the case when different meanings can be expressed by the same word in a language, of words in human languages. 
 
@@ -36,7 +36,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
 ### Recent Publications
+#### Taste Quality Representation in the Human Brain
+In this study, I examined the spatial representation of taste within the human brain. My analyses revealed tastes activate the primary taste cortex, but did not show a consistent preference for any individual taste. However, a multivariate searchlight analyses reliably decoded the identity of distinct tastes within the primary taste cortex. These results suggest that taste quality is not represented topographically, but by a distributed population code, both within primary taste cortex as well as regions involved in processing the hedonic and aversive properties of taste.
+[doi] (https://www.jneurosci.org/content/40/5/1042.abstract) 
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liualg/liualg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
