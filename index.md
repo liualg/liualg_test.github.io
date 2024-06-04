@@ -1,16 +1,17 @@
 # Welcome
 
-My name is Alexander, and I am currently doing neuro-psychology research involving taste. Please look around and enjoy yourself. 
+My name is Alexander, and I am currently working at the National Institutes of Cancer in the Serological Sciences Network (SeroNet) project! It is a coordinated effort to expand the nation’s capacity for SARS-CoV-2 serologic testing on a population-level and advance research on the immune response to SARS-CoV-2 infection and COVID-19 vaccination among diverse and vulnerable populations. Please look around and enjoy yourself. 
 <!-- ![my_face](./head_shot.jpg) --> 
 <!-- note, this is css ^. if you use css, you will have to create another doc with all the css code in it -->
 
 
-<h3>here is a picture of me</h3> <!---  this is html --> 
+<h3>pictures for reference</h3> <!---  this is html --> 
 <img style="float: left;width: 100px;height: 100px;" src="./head_shot.jpg">
 
 ### Current Project: 
 
-I am currently researching taste semantics in the human language. I hope to relate the neural correlates of the taste pathway to the colexification --  describes the case when different meanings can be expressed by the same word in a language, of words in human languages. 
+Project Manager | Data Analyst:
+I am currently working at the National Institutes of Cancer in the Serological Sciences Network (SeroNet) project! It is a coordinated effort to expand the nation’s capacity for SARS-CoV-2 serologic testing on a population-level and advance research on the immune response to SARS-CoV-2 infection and COVID-19 vaccination among diverse and vulnerable populations. 
 
 ### Markdown
 
